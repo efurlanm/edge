@@ -4,7 +4,7 @@ This repository serves as a collection of personal random notes and experiments 
 
 <table>
   <tr>
-    <td><img src="img/construction.gif"></td>
+    <td><img src="img/construction.svg"></td>
     <td>This repo is permanently under construction, so its content changes constantly.</td>
   </tr>
 </table>
@@ -98,11 +98,11 @@ sshfs <hostname>:/data/data/com.termux/files/home /mnt/<hostname> -o uid=$(id -u
 My personal notes on generating executables on selected architectures
 
 * My personal notes on Clang AArch64.
-     * [clang-aarch64-2025-06-06.ipynb](clang/clang-aarch64.ipynb) rev. 2025-06-06
-     * [clang-aarch64-2023-01-28.ipynb](clang/clang-aarch64.ipynb) rev. 2023-01-28
+     * [clang-aarch64-2025-06-06.ipynb](clang/clang-aarch64-2025-06-06.ipynb) rev. 2025-06-06
+     * [clang-aarch64-2023-01-28.ipynb](clang/clang-aarch64-2023-01-28.ipynb) rev. 2023-01-28
 * My personal notes on Flang AArch64.
-     * [flang-aarch64-2023-01-28.ipynb](flang/flang-aarch64.ipynb) rev. 2023-01-28
-     * [flang-aarch64-2025-06-06.ipynb](flang/flang-aarch64.ipynb) rev. 2025-06-06
+     * [flang-aarch64-2023-01-28.ipynb](flang/flang-aarch64-2023-01-28.ipynb) rev. 2023-01-28
+     * [flang-aarch64-2025-06-06.ipynb](flang/flang-aarch64-2025-06-06.ipynb) rev. 2025-06-06
 * [install-flang-aarch64.ipynb](flang/install-flang-aarch64.ipynb) - Install Flang on aarch64.
 * [gcc_amd64.ipynb](gcc/gcc_amd64.ipynb) - Understanding executables. Running on a laptop with an i7-9750H processor.
 * [gcc_arm32.ipynb](gcc/gcc_arm32.ipynb) - Understanding executables. Running on an Orange Pi Zero, with 32-bit ARMv7-A Cortex-A7 architecture.
